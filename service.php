@@ -159,7 +159,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">Development</a>
+										<a href="#">Development</a>
 									</h6>
 
 									<p>
@@ -178,7 +178,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">Web Design</a>
+										<a href="#">Web Design</a>
 									</h6>
 
 									<p>
@@ -196,7 +196,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">SEO Optimization</a>
+										<a href="#">SEO Optimization</a>
 									</h6>
 
 									<p>
@@ -214,7 +214,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">Ecommerce</a>
+										<a href="#">Ecommerce</a>
 									</h6>
 
 									<p>
@@ -233,7 +233,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">Branding</a>
+										<a href="#">Branding</a>
 									</h6>
 
 									<p>
